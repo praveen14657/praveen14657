@@ -1,147 +1,141 @@
-::: {align="center"}
-# Hi 👋, I'm Praveenraj
+<div align="center">
 
-### Java Developer • Software Engineer • AI & ML Enthusiast
+# Praveenraj
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real-world+problems;Java+%7C+Spring+Boot+%7C+SQL+%7C+Android;Exploring+AI%2FML+through+practical+applications;Always+learning.+Always+building." alt="Typing SVG" />`{=html}
-:::
+### Java Developer · Software Engineer · AI/ML Enthusiast
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real-world+problems;Java+%7C+Spring+Boot+%7C+SQL+%7C+Android;Exploring+AI%2FML+through+practical+applications;Always+learning.+Always+building." alt="Typing SVG" />
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a **Computer Science Engineering graduate with Honors in Artificial
-Intelligence and Machine Learning**, focused on building practical
-software solutions with **Java, backend technologies, Android, and
-AI/ML**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Site-2F81F7?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
--   ☕ Strong foundation in **Java, OOP, Collections, Exception
-    Handling, Multithreading, and File Handling**
--   🌱 Currently strengthening my **Spring Boot and backend
-    development** skills
--   🤖 Hands-on experience with **Machine Learning, Deep Learning,
-    TensorFlow, CNN, and RNN**
--   🗄️ Experienced with **MySQL, SQLite, MongoDB, and JDBC**
--   🧩 Solved **150+ LeetCode problems**
--   🥉 Secured **3rd Place in Codeathon 2024**
--   🎯 Seeking opportunities in **Software Engineering and Java
-    Development**
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-::: {align="center"}
-### 🌐 Connect With Me
+## About Me
 
-`<a href="YOUR_PORTFOLIO_URL">`{=html}`<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />`{=html}`</a>`{=html}
-`<a href="YOUR_LINKEDIN_URL">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}`</a>`{=html}
-:::
+I'm a Computer Science Engineering graduate with **Honors in Artificial Intelligence and Machine Learning**, focused on building practical, production-minded software with Java, backend technologies, Android, and applied AI/ML.
 
-------------------------------------------------------------------------
+- 💼 Currently seeking opportunities in **Software Engineering** and **Java Development**
+- ☕ Strong foundation in **Java, OOP, Collections, Exception Handling, Multithreading & File I/O**
+- 🌱 Actively deepening my expertise in **Spring Boot** and backend system design
+- 🤖 Hands-on with **Machine Learning, Deep Learning, TensorFlow, CNNs & RNNs**
+- 🗄️ Comfortable working with **MySQL, SQLite, MongoDB & JDBC**
+- 🧩 **150+ LeetCode problems** solved, with a focus on data structures & algorithms
+- 🏆 **3rd Place, Codeathon 2024**
 
-## ⚡ Tech Stack
+<br/>
 
-::: {align="center"}
-### Languages
+## Tech Stack
 
-`<img src="https://skillicons.dev/icons?i=java,python,js" />`{=html}
+<div align="center">
 
-### Backend & Web
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 
-`<img src="https://skillicons.dev/icons?i=spring,flask,html,css" />`{=html}
+**Backend & Web**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,flask,html,css" />
 
-### Databases
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 
-`<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />`{=html}
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-### AI / ML
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio,idea,vscode,postman" />
 
-`<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />`{=html}
+</div>
 
-### Development & Version Control
+<br/>
 
-`<img src="https://skillicons.dev/icons?i=git,github,androidstudio,idea,vscode" />`{=html}
-:::
+## Featured Projects
 
-------------------------------------------------------------------------
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## 🚀 Current Projects
+### 🩺 GuardX
+**Smart Health Analytics & Disease Prediction**
 
-### 🩺 GuardX --- Smart Health Analytics & Disease Prediction Platform
+AI-powered holistic healthcare platform unifying physical and mental health monitoring.
 
-> An AI-powered holistic healthcare platform combining physical and
-> mental health monitoring.
+- PHQ-9 & GAD-7 mental health screening
+- ML-based disease risk prediction
+- Automated clinical report generation
 
--   Monitors key vital signs and health indicators
--   Integrates **PHQ-9 and GAD-7** mental health screening
--   Supports ML-based disease risk prediction
--   Generates automated clinical reports
--   Built with **Java, Android, Python, Flask, TensorFlow, and SQLite**
+`Java` `Android` `Python` `Flask` `TensorFlow` `SQLite`
 
-### 📡 ResQLink --- Disaster-Resilient Offline Emergency Communication
+</td>
+<td width="33%" valign="top">
 
-> An offline peer-to-peer communication platform designed for emergency
-> and disaster scenarios.
+### 📡 ResQLink
+**Offline Emergency Communication**
 
--   Enables device-to-device emergency communication
--   Designed for connectivity-limited environments
--   Implements offline message persistence and relay concepts
--   Focused on resilient mobile communication
+Disaster-resilient, peer-to-peer communication platform for connectivity-limited environments.
 
-### 🔍 DeepTruth --- AI-Based Fake News & Misinformation Detection
+- Device-to-device emergency messaging
+- Offline message persistence & relay
+- Built for low-connectivity resilience
 
-> An AI-powered platform designed to identify misleading digital content
-> and support a more trusted digital world.
+`Android` `Java` `Networking`
 
--   Detects potentially misleading or fake news content
--   Applies AI/ML techniques for content analysis
--   Focuses on misinformation awareness and digital trust
+</td>
+<td width="33%" valign="top">
 
-------------------------------------------------------------------------
+### 🔍 DeepTruth
+**Fake News & Misinformation Detection**
 
-## 📊 GitHub Stats
+AI-driven platform that flags misleading digital content to support a more trustworthy information ecosystem.
 
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveen14657&show_icons=true&hide_border=true&rank_icon=github" />`{=html}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen14657&layout=compact&hide_border=true&langs_count=8" />`{=html}
+- NLP-based content analysis
+- Misinformation risk scoring
+- Focus on digital media literacy
 
-`<br/>`{=html}
+`Python` `Machine Learning` `NLP`
 
-`<img src="https://streak-stats.demolab.com?user=praveen14657&hide_border=true" />`{=html}
-:::
+</td>
+</tr>
+</table>
 
-------------------------------------------------------------------------
+<br/>
 
-## 🛠️ Tools & Platforms
+## GitHub Analytics
 
-::: {align="center"}
-`<img src="https://img.shields.io/badge/IntelliJ_IDEA-Developer_Tool-000000?style=for-the-badge&logo=intellijidea" />`{=html}
-`<img src="https://img.shields.io/badge/Android_Studio-Mobile_Development-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/VS_Code-Code_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github&logoColor=white" />`{=html}
-`<img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />`{=html}
-:::
+<div align="center">
 
-------------------------------------------------------------------------
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=praveen14657&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen14657&layout=compact&hide_border=true&langs_count=8" />
 
-## 📈 Contribution Graph
+<br/>
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen14657&hide_border=true&area=true" width="100%" />`{=html}
-:::
+<img src="https://streak-stats.demolab.com?user=praveen14657&hide_border=true" />
 
-------------------------------------------------------------------------
+<br/>
 
-::: {align="center"}
-### 👀 Profile Visitors
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen14657&hide_border=true&area=true" width="100%" />
 
-`<img src="https://komarev.com/ghpvc/?username=praveen14657&label=Profile%20Views&style=for-the-badge" />`{=html}
+</div>
 
-`<br/>`{=html}`<br/>`{=html}
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=praveen14657&label=Profile%20Views&style=for-the-badge&color=2F81F7" />
+
+<br/><br/>
 
 ### 💡 Build. Learn. Improve. Repeat.
 
-`<i>`{=html}Turning ideas into practical software
-solutions.`</i>`{=html}
-:::
+*Turning ideas into practical software solutions.*
 
+</div>
